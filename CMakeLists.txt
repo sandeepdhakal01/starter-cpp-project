@@ -19,3 +19,5 @@ include_directories(include)
 #   add_executable(a1 src/assignmeht1.cpp)
 #   add_executable(lab2 src/lab2.cpp src/helpers.cpp)
 add_executable(main src/main.cpp)
+add_executable(lab2vdo1 src/lab2vdo1.cpp)
+
