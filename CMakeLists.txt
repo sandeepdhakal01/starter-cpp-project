@@ -23,4 +23,4 @@ add_executable(lab2vdo1 src/lab2vdo1.cpp)
 add_executable(video3 src/video3.cpp)
 add_executable(video3_extended src/video3_extended.cpp)
 add_executable(video2 src/video2.cpp)
-
+add_executable(video2 src/video2.cpp)
